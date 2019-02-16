@@ -1,0 +1,10 @@
+## Gradle Command to Build and Run
+## ./gradlew build && java -jar build/libs/icart-services-1.0-SNAPSHOT.jar
+
+## Maven Command to Build and Run
+## mvn package && java -jar target/icart-services-1.0-SNAPSHOT.jar
+## or
+## mvn spring-boot:run
+
+## URL
+## http://localhost:8080/cart/item
